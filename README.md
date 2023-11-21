@@ -18,9 +18,9 @@ ai 논문
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485686
 
 기술 스택
-NODE.JS
-JAVA
-Android studio
-C#
+NODE.JS,
+JAVA,
+Android studio,
+C#,
 JAVASCRIPT
 
