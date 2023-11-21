@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ai 논문
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485686
 
-기술 스택
+기술 스택<br>
 NODE.JS<br>
 JAVA<br>
 Android studio<br>
