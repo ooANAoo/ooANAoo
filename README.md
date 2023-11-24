@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ai 논문
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485686
 
+WITT 백로그
+https://projects-lj.notion.site/With-Training-2aca57d461f94f918dab38773869c3a6
+
 기술 스택<br>
 NODE.JS<br>
 JAVA<br>
